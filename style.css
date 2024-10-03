@@ -15,7 +15,15 @@ tlačítko Facebook aktivní: #2b406e
 */
 
 
-.bodyd {
+body {
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
+    background: #b2bec3;
+  }
+
+.vizitka {
+    background: white;
+    width: 550px;
+    margin:auto;
+    margin-top: 150px;
   }
