@@ -71,13 +71,23 @@ a {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+    
 }
 
 .twitter {
     background-color: #1da1f2;
     margin-bottom: 5px;
+    
 }
 
 .facebook {
     background-color: #3b5998;
+}
+
+.twitter:hover {
+    background-color: #0b7bc1;
+}
+
+.facebook:hover {
+    background-color: #2b406e;
 }
