@@ -19,6 +19,7 @@ body {
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
     background: #b2bec3;
+    margin: 0;
   }
 
 .vizitka {
@@ -28,9 +29,17 @@ body {
     margin-top: 150px;
     border-radius: 10px;
     position: relative;
+    padding: 30px;
 
   }
 
+.odstavec1{
+    margin-top: 30px;
+}
+
+.odstavec2 {
+    margin-bottom: 30px;
+}
 img {
     border-radius: 50%;
     width: 150px;
